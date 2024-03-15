@@ -15,7 +15,7 @@ This Discord bot is designed to express love and affection towards your signific
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/romantic-discord-bot.git`
+1. Clone the repository: `git clone https://github.com/your-username/couple_love_bot.git`
 
 2. Navigate to the project directory: `cd romantic-discord-bot`
 
